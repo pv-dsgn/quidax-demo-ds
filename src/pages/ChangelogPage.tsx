@@ -28,6 +28,22 @@ const TAG_CONFIG: Record<ChangeType, { label: string; color: string; bg: string 
 
 const CHANGELOG: ChangelogEntry[] = [
   {
+    id: 'repo-url-update',
+    date: '2026-06-26',
+    sha: 'b026006',
+    title: 'Adopt Button component in NavBar CTA',
+    description: 'Removes the one-off .cta style block from NavBar and replaces it with the new shared Button component, keeping the visual output identical while cutting 21 lines of duplicated CSS.',
+    changes: [
+      {
+        type: 'updated',
+        items: [
+          'repoUrlUpdate: pv-dsgn/quidax-demo replaced with pv-dsgn/quidax-demo-ds all const values assiociated with old repo name was updated',
+          'All block values assiociated with old repo name (quidax-demo) was updated to (quidax-demo-ds)',
+        ],
+      },
+    ],
+  },
+  {
     id: 'navbar-button-adoption',
     date: '2026-06-08',
     sha: 'e022316',

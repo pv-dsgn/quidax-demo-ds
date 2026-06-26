@@ -35,7 +35,7 @@ const CHANGELOG: ChangelogEntry[] = [
     description: 'Removes the one-off .cta style block from NavBar and replaces it with the new shared Button component, keeping the visual output identical while cutting 21 lines of duplicated CSS.',
     changes: [
       {
-        type: 'updated',
+        type: 'changed',
         items: [
           'repoUrlUpdate: pv-dsgn/quidax-demo replaced with pv-dsgn/quidax-demo-ds all const values assiociated with old repo name was updated',
           'All block values assiociated with old repo name (quidax-demo) was updated to (quidax-demo-ds)',

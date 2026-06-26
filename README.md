@@ -1,10 +1,10 @@
-# Quidax Design System
+# Quidax Demo Design System
 
 A comprehensive, production-ready design system for the **Quidax cryptocurrency trading platform**. This repository contains the complete design specifications, reusable components, design tokens, and composition patterns that power the Quidax product experience.
 
 ## Overview
 
-The Quidax Design System is built on **design tokens**, **atomic elements**, **composed components**, and **composition patterns** — a structured approach to creating consistent, scalable, and maintainable user interfaces for financial applications.
+The Quidax Demo Design System is built on **design tokens**, **atomic elements**, **composed components**, and **composition patterns** — a structured approach to creating consistent, scalable, and maintainable user interfaces for financial applications.
 
 **Live Demo:** [quidax-demo-ds.vercel.app](https://quidax-demo-ds.vercel.app)
 

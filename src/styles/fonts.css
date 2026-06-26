@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Uncut Sans Variable";
+  src:
+    url("/fonts/Uncut%20Sans%20Variable.ttf") format("truetype-variations"),
+    url("/fonts/Uncut%20Sans%20Variable.ttf") format("truetype");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}

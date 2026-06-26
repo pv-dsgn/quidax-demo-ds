@@ -3,7 +3,7 @@ import { Divider } from '@/components/ui'
 import { pageStyles, PageHeader, Block, Callout } from '@/components/docs/Section'
 import { useToc } from '@/components/docs/TocContext'
 
-const REPO = 'pv-dsgn/quidax-demo'
+const REPO = "pv-dsgn/quidax-demo-ds"
 
 // ── GitHub types ──────────────────────────────────────────────────────────────
 

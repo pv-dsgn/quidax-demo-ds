@@ -202,7 +202,7 @@ const CHANGELOG: ChangelogEntry[] = [
       {
         type: 'added',
         items: [
-          'PendingLogPage (/Pendinglog) — live open PR feed from pv-dsgn/quidax-demo via GitHub API; includes loading skeleton, empty state ("all clear"), and error fallback',
+          'PendingLogPage (/Pendinglog) — live open PR feed from pv-dsgn/quidax-demo-ds via GitHub API; includes loading skeleton, empty state ("all clear"), and error fallback',
           'PR cards: number badge, draft/label tags, author avatar + login, "opened X ago / updated X ago" timestamps; click to open PR on GitHub',
           'Planned items grid: 10 entries across Component, Foundation, Tooling, and Documentation categories with High / Medium / Low priority tags',
           'Callout explaining where to add new planned items and when to move them to the Changelog',

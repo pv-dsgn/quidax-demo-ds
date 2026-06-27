@@ -32,7 +32,7 @@ const CHANGELOG: ChangelogEntry[] = [
     date: '2026-06-26',
     sha: 'b026006',
     title: 'Relink codebase to new repo url',
-    description: 'Removes the one-off .cta style block from NavBar and replaces it with the new shared Button component, keeping the visual output identical while cutting 21 lines of duplicated CSS.',
+    description: 'Relinks the codebase to the new repo url (pv-dsgn/quidax-demo-ds) and updates all const values assiociated with the old repo name (quidax-demo).',
     changes: [
       {
         type: 'changed',
